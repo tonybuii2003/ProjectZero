@@ -33,10 +33,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Project Zero - Atom Virtual Model</h3>
+<h3 align="center">Project Zero</h3>
 
   <p align="center">
-    project_description
+    Virtual model of an atom.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
