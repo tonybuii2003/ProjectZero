@@ -94,7 +94,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 <!--* [Next.js](https://nextjs.org/) -->
 * [Processing](https://processing.org)
-* [Java](https://vuejs.org/)
+* [Java](https://www.java.com/en/)
 * [PeasyCam](https://mrfeinberg.com/peasycam/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
