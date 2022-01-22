@@ -223,4 +223,4 @@ Project Link: [https://github.com/tonybuii2003/ProjectZero](https://github.com/t
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/tonybui2003
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: img/ScreenShotDemoApp.png
