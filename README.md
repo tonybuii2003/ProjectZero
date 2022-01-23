@@ -15,8 +15,6 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -40,8 +38,6 @@
     -->
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -76,11 +72,9 @@
 
 [![Product Name Screen Shot][product-screenshot]](img/ScreenShotDemoApp.png)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
+The idea of ProjectZero was interesting. This was my high school chemistry creative project, a presentation for a chosen element from the periodic table. Instead of using presentation tools like PowerPoint, I decided to make an 3D animated figure of the atom using Java in Processing. The purpose of the project at first was that I found coding is enjoyable, but I think the virtualization of the atom could help students better understanding in the subject, and I believe I can brought joy to others' learning experience.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ### Built With
 
@@ -101,6 +95,7 @@ In order to run the software in Java, you first need to install Java Development
 To see the code in pde, you need to have processing installed and run the file from the ide. Click [_here_](https://processing.org/download) to download the ide.
 
 ### Installation
+To tryout the demo simply [Download Demo](https://drive.google.com/uc?export=download&id=1rY_OOOybkd8zDA7SwHek3I6_Cy2AyheE) and double cick the app icon to open the 3D vitual figure.
 <!--
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
@@ -121,15 +116,13 @@ To see the code in pde, you need to have processing installed and run the file f
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+<!--## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+-->
 
 <!-- ROADMAP -->
 ## Roadmap
