@@ -18,9 +18,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a>
+  <p>
     <img src="img/logo.png" alt="Logo" width="231" height="298">
- </a>
+ </p>
 
 <h3 align="center">Project Zero</h3>
 
