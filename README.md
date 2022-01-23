@@ -90,8 +90,8 @@ The idea of **ProjectZero** was interesting. This was my high school chemistry c
 ## Getting Started
 ### Prerequisites
 
-In order to run the software in Java, you first need to install Java Development Kit (JDK). You can look at the installation guide [_here_](https://docs.oracle.com/en/java/javase/11/install/overview-jdk-installation.html#GUID-8677A77F-231A-40F7-98B9-1FD0B48C346A)
-To see the code in pde, you need to have processing installed and run the file from the ide. Click [_here_](https://processing.org/download) to download the ide.
+In order to run the software in Java, you first need to install the Java Development Kit (JDK). You can look at the installation guide [_here_](https://docs.oracle.com/en/java/javase/11/install/overview-jdk-installation.html#GUID-8677A77F-231A-40F7-98B9-1FD0B48C346A)
+To see the code in pde (Processing), you need to have Processing installed and run the file from the ide. Click [_here_](https://processing.org/download) to download the ide.
 
 ### Installation
 To try the application the demo simply [Download Demo](https://drive.google.com/uc?export=download&id=1rY_OOOybkd8zDA7SwHek3I6_Cy2AyheE) and double cick the app icon to open the 3D vitual figure.
