@@ -190,7 +190,7 @@ Phi Long Bui - [Linkedin](https://www.linkedin.com/in/tonybui2003) - longphibui1
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/tonybuii2003/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/tonybuii2003/ProjectZero.svg?style=for-the-badge
 [contributors-url]: https://github.com/tonybuii2003/ProjectZero/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/tonybuii2003/ProjectZero.svg?style=for-the-badge
 [forks-url]: https://github.com/tonybuii2003/ProjectZero/network/members
