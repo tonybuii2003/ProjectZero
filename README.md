@@ -72,7 +72,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](img/ScreenShotDemoApp.png)
 
-The idea of ProjectZero was interesting. This was my high school chemistry creative project, a presentation for a chosen element from the periodic table. Instead of using presentation tools like PowerPoint, I decided to make an 3D animated figure of the atom using Java in Processing. The purpose of the project at first was that I found coding is enjoyable, but I think the virtualization of the atom could help students better understanding in the subject, and I believe I can bring joy to others' learning experience.
+The idea of **ProjectZero** was interesting. This was my high school chemistry creative project, a presentation for a chosen element from the periodic table. Instead of using presentation tools like PowerPoint, I decided to make an 3D animated figure of the atom using Java in Processing. The purpose of the project at first was that I found coding is enjoyable, but I think the virtualization of the atom could help students better understanding in the subject, and I believe I can bring joy to others' learning experience.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
