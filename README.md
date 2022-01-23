@@ -150,10 +150,12 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [x] Adding nucleus and electron rotating around the nucleus as circles.
+- [x] Used PeasyCam to trasfer the model from 2D to 3D
+- [x] Vỉtual 3D control
+    - [x] Using mouse
+    - [x] Using keyboard
+    - [ ] Make a user-friendly IU 
 
 See the [open issues](https://github.com/tonybuii2003/ProjectZero/issues) for a full list of proposed features (and known issues).
 
