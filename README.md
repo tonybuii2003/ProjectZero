@@ -17,7 +17,6 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -171,7 +170,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [linkedin](https://www.linkedin.com/in/tonybui2003) - longphibui1993@gmail.com
+Phi Long Bui - [linkedin](https://www.linkedin.com/in/tonybui2003) - longphibui1993@gmail.com
 
 Project Link: [https://github.com/tonybuii2003/ProjectZero](https://github.com/tonybuii2003/ProjectZero)
 
