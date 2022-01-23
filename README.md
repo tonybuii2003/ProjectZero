@@ -110,7 +110,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-In order to run the software, you first need to install Java Development Kit (JDK). You can look at the installation guide [_here_](https://docs.oracle.com/en/java/javase/11/install/overview-jdk-installation.html#GUID-8677A77F-231A-40F7-98B9-1FD0B48C346A)
+In order to run the software in Java, you first need to install Java Development Kit (JDK). You can look at the installation guide [_here_](https://docs.oracle.com/en/java/javase/11/install/overview-jdk-installation.html#GUID-8677A77F-231A-40F7-98B9-1FD0B48C346A)
+To see the code in pde, you need to have processing installed and run the file from the ide. Click [_here_](https://processing.org/download) to download the ide.
 
 ### Installation
 <!--
