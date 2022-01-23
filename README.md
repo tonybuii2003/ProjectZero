@@ -18,7 +18,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
+  <a href="https://github.com/tonybuii2003/ProjectZero">
     <img src="img/logo.png" alt="Logo" width="231" height="298">
   </a>
 
