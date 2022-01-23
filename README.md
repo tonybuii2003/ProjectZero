@@ -170,9 +170,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Phi Long Bui - [linkedin](https://www.linkedin.com/in/tonybui2003) - longphibui1993@gmail.com
-
-Project Link: [https://github.com/tonybuii2003/ProjectZero](https://github.com/tonybuii2003/ProjectZero)
+Phi Long Bui - [Linkedin](https://www.linkedin.com/in/tonybui2003) - longphibui1993@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
