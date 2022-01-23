@@ -94,7 +94,7 @@ In order to run the software in Java, you first need to install the Java Develop
 To see the code in pde (Processing), you need to have Processing installed and run the file from the ide. Click [_here_](https://processing.org/download) to download the ide.
 
 ### Installation
-To try the application the demo simply [Download Demo](https://drive.google.com/uc?export=download&id=1rY_OOOybkd8zDA7SwHek3I6_Cy2AyheE) and double cick the app icon to open the 3D vitual figure.
+To try the demo application simply [Download Demo](https://drive.google.com/uc?export=download&id=1rY_OOOybkd8zDA7SwHek3I6_Cy2AyheE) and double cick the app icon to open the 3D vitual figure.
 <!--
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
