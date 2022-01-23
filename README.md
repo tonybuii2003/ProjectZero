@@ -56,7 +56,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <!--<li><a href="#usage">Usage</a></li>-->
     <li><a href="#roadmap">Roadmap</a></li>
     <!--<li><a href="#contributing">Contributing</a></li>-->
     <li><a href="#license">License</a></li>
@@ -158,15 +158,13 @@ Phi Long Bui - [Linkedin](https://www.linkedin.com/in/tonybui2003) - longphibui1
 
 
 <!-- ACKNOWLEDGMENTS -->
-<!--## Acknowledgments
+## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Processing Tutorials](https://processing.org/tutorials)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
--->
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
