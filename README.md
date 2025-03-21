@@ -30,7 +30,7 @@
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>-->
     <br />
     <br />
-    <a href="https://drive.google.com/uc?export=download&id=1rY_OOOybkd8zDA7SwHek3I6_Cy2AyheE">Download Demo</a>
+    <a href="https://github.com/tonybuii2003/ProjectZero/releases/tag/v1.0.0">Download Demo</a>
     ·
     <a href="https://github.com/tonybuii2003/ProjectZero/issues">Report Bug</a>
     <!--·
